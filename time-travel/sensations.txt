@@ -1,0 +1,1 @@
+quiet, distance, typing, excited, ready, thoughtful, tired 
